@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color:wheat;
+  border-radius: 25px;
+  width: 300px;
+  margin-left: 725px;
+  margin-top: 290px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.container {
+  background-color: white;
+  border-radius: 25px;
+  text-align: center;
+}
+
+h2{
+background-color: rgb(63, 9, 9);
+  color: white;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  font-size: 25px;
+  font-weight: normal;
+  height: 40px;
+  padding-top: 10px;
+
+}
+
+.second{ 
+  border-width:0.2vmin; 
+}
+
+button{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 2px;
+  height: 35px;
+  width: 125px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(165, 31, 71);
+}
+
+.finalresult{
+  font-size: 30px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+}
+
